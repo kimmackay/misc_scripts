@@ -15,7 +15,13 @@
 ##
 ## argument 1: a text file containing the probe name, chromosome, start, end, strand, ID, treatment 1 foldchange, and treatment 2 foldchange sorted by gene id
 ## argument 2: the name of the output file
+##
 ## Kimberly MacKay July 7, 2014
+##
+## license: This work is licensed under the Creative Commons Attribution-NonCommercial-
+## ShareAlike 3.0 Unported License. To view a copy of this license, visit 
+## http://creativecommons.org/licenses/by-nc-sa/3.0/ or send a letter to Creative Commons, 
+## PO Box 1866, Mountain View, CA 94042, USA.
 
 use strict;
 use warnings;
