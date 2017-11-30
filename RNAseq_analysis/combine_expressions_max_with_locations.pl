@@ -17,6 +17,7 @@
 ## argument 2: the name of the output file
 ##
 ## Kimberly MacKay July 7, 2014
+## contact: kimberly.mackay@usask.ca
 ##
 ## license: This work is licensed under the Creative Commons Attribution-NonCommercial-
 ## ShareAlike 3.0 Unported License. To view a copy of this license, visit 
